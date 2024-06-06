@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd root@7fee922e8c214c4c8dd33c9a2afee692-2377118072:~/holbertonschool-shell/basics# ("why?")
+pwd ("why?")
