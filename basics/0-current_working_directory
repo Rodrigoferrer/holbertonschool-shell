@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd/root/holbertonschool-shell/basics ("why?")
+pwd/root/holbertonschool-shell/basics # Muestra la ruta actual del directorio ("why?")
