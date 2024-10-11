@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+g+x ./hello chmod g+r ./hello
+chmod 110 ./hello chmod 004 ./hello
